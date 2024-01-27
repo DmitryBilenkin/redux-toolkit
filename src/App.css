@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+}
+
+.containers{
+  width: 50%;
+  
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+
+  box-sizing: border-box;
+  padding: 15px;
+  border: 1px solid black;
+}
